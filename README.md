@@ -1,2 +1,8 @@
-# Sub-THz-Double-directional-channel-sounder-measurements-data---Oulu
-Measured channel data at Sub-THz frequencies at University of Oulu. The measuremets were performed using VNA based channel sounder.
+# Sub-THz-Double-directional-channel-sounder-measurements-data (University of Oulu)
+
+The supplementary code is available here for extracted Multipath componenet processing based on the measuremenet carried out at University of Oulu. The corresponding data set can be found in Zenedo (doi: 10.5281/zenodo.22924163
+).  This work was supported by the Research Council of Finland (former Academy of Finland) Multipath project (Grant no. 348980) and 6G Flagship (Grant no. 369116), and by Keysight Technologies, Inc. through a measurement equipment donation. The data set is compiled for three different environments across two frequencies of 234 and 318 GHz. The methodology and data extraction workflow are discussed in detail in (1), while further analysis and characterisation of the measured channel data are presented in (2,3). The data set is freely available for research use and users are requested to cite any of our related works. 
+
+1. N. Lafir, P. Zhang, V. Hovinen, N. Tervo and P. Kyösti, "Double-Directional Channel Measurements at 234 GHz and 318 GHz in a Symmetric Large Hall," 2026 20th European Conference on Antennas and Propagation (EuCAP), Dublin, Ireland, 2026, pp. 1-5, doi: 10.23919/EuCAP68105.2026.11612447.
+2. S. Shao, P. Zhang, S. L. Cotton and P. Kyösti, "Channel Measurements and Characterization for Terahertz Communications in Industrial Environments," 2026 20th European Conference on Antennas and Propagation (EuCAP), Dublin, Ireland, 2026, pp. 1-5, doi: 10.23919/EuCAP68105.2026.11612070.
+3. N. Vaara et al., "Differentiable Ray Tracing for THz Radio Channel Characterization with Point Clouds," 2026 20th European Conference on Antennas and Propagation (EuCAP), Dublin, Ireland, 2026, pp. 1-5, doi: 10.23919/EuCAP68105.2026.11611969.
