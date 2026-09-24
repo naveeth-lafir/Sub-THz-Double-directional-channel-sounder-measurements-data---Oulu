@@ -8,4 +8,4 @@ The supplementary code is available here for extracted Multipath componenet proc
 
 The available multipath data is characterized by departure angle, arrival angle, propgation delay and power information for each of the link. The supporting repo includes **data_load.mlx** as the main scirpt and **gen_pathDD_MPC.m** as the supporting function. The detailed description of the environment and the measurement parameters are available in the attached pdf document. 
 
-**Note: The original code can be found in https://doi.org/10.5281/zenodo.7640353(Measurement-based MIMO channel model at 140GHz). The code data_load.mlx and gen_pathDD_MPC.m are the modified versions of the original code. **
+**Note: The original code can be found in https://doi.org/10.5281/zenodo.7640353(Measurement-based MIMO channel model at 140GHz). The code data_load.mlx and gen_pathDD_MPC.m are the modified versions of the original code.**
