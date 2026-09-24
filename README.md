@@ -7,3 +7,5 @@ The supplementary code is available here for extracted Multipath componenet proc
 3. N. Vaara et al., "Differentiable Ray Tracing for THz Radio Channel Characterization with Point Clouds," 2026 20th European Conference on Antennas and Propagation (EuCAP), Dublin, Ireland, 2026, pp. 1-5, doi: 10.23919/EuCAP68105.2026.11611969.
 
 The available multipath data is characterized by departure angle, arrival angle, propgation delay and power information for each of the link. The supporting repo includes **data_load.mlx** as the main scirpt and **gen_pathDD_MPC.m** as the supporting function. The detailed description of the environment and the measurement parameters are available in the attached pdf document. 
+
+**Note: The original code can be found in https://doi.org/10.5281/zenodo.7640353(Measurement-based MIMO channel model at 140GHz). The code data_load.mlx and gen_pathDD_MPC.m are the modified versions of the original code. **
